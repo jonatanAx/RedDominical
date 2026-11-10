@@ -1,0 +1,11 @@
+# Python y Entornos
+__pycache__/
+*.py[cod]
+.venv/
+venv/
+env/
+
+# Configuración de VS Code y OS
+.vscode/
+.DS_Store
+Thumbs.db
